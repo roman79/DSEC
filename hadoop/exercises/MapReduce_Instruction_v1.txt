@@ -1,0 +1,19 @@
+# MapReduce WordCount exercise 
+# Copy the results from WordCount out of HDFS.
+
+#Execute commands in  Cloudera quickstart VM.
+
+1 Open terminal shell.
+2 Run hadoop fs 僕s #to verify the file shakespeare.txt is in HDFS.
+
+3 Run hadoop jar /usr/lib/hadoop-0.20-mapreduce/hadoop-examples.jar  # to see examples of map reduce programs
+4 Run hadoop fs 僕s #to verify the file
+5 Run hadoop jar /usr/lib/hadoop-0.20-mapreduce/hadoop-examples.jar wordcount
+6 Run hadoop jar /usr/lib/hadoop-0.20-mapreduce/hadoop-examples.jar wordcount shakespeare.txt out
+
+7 Run hadoop fs 僕s #to verify
+8 Run hadoop fs 僕s out #Look inside output directory
+
+9 Run hadoop fs 膨opyToLocal out/part-r-00000 local.txt #Copy WordCount results to local file system.
+10 more local.txt #View the WordCount results
+

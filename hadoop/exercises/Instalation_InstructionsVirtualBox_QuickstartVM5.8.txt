@@ -1,0 +1,15 @@
+1 Install VirtualBox on your computer. #Follow the default settings unless other instructins.
+
+2.1 Install Cloudera Quickstart_vms 5-8 on your computer.
+2.2 Unzip the Cloudera VM
+2.3 Start VirtualBox.
+2.4 Import the VM by going to File -> Import Appliance
+2.5 Click the Folder icon.
+2.6  Select the cloudera-quickstart-vm-5.8.0-0-virtualbox.ovf from the Folder where you unzipped the VirtualBox VM and click Open.
+2.7  Click Continue to proceed.
+2.8  Click Import.
+2.9  The virtual machine image will be imported. 
+2.10  Select cloudera-quickstart-vm and launch it by clicking on Start arrow button .  #The booting process takes a long time since many Hadoop tools are started.
+    # Windows firewall will block some items. click allow.      The process can take several minutes.
+2.11  The Cloudera VM desktop appered.   # Finished.
+

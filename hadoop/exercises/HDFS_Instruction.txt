@@ -1,0 +1,21 @@
+#Copy files into and out of the HDFS via command-line interface.
+#Execute commands in  Cloudera quickstart VM.
+
+1 Open google page and search for shakespeare.txt or http://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt .
+2 Download t8.shakespeare.txt file and save it as shakespeare.txt . 
+3 Open terminal shell.
+4 Run cd Downloads #to change to the Downloads directory.
+5 Run ls # we are looking for shakespeare.txt
+6 Run hadoop fs –copyFromLocal shakespeare.txt     #to copy the text file to HDFS.
+7 Run hadoop fs –ls #to verify the file was copied to HDFS.
+8 Run hadoop fs -cp shakespeare.txt shakespeare1.txt #to make a copy of shakespeare.txt called shakespeare1.txt
+7 Run hadoop fs –ls #to verify the file was copied.
+8 Run hadoop fs -copyToLocal shakespeare1.txt #to copy shakespeare1.txt to the local directory.
+9 Run ls #check
+9 Run hadoop fs -rm shakespeare1.txt #to remove shakespeare1.txt from HDFS.
+10 Run hadoop fs -ls  #check
+11 close terminal shell.
+
+
+
+
