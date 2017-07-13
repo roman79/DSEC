@@ -45,3 +45,23 @@ Pandas is an open source, BSD-licensed library providing high-performance, easy-
 
 Data wrangling is about taking a messy or unrefined source of data and turning it into something useful.
 
+**Data Wrangling with Python** by Jacqueline Kazil, Katharine Jarmul.
+
+[Data Wrangling with Python notebook](DataWranglingPython.ipynb)
+
+
+
+## Machine Learning with Python
+
+**Introduction to Machine Learning with Python** by  Andreas C. Mueller , Sarah Guido 
+
+**Supervised Learning: Classification and Regression**
+
+[Introduction to Scikit-Learn notebook](IntroductionToScikitLearn.ipynb)
+
+**Unsupervised Learning: Clustering, Dimensionality Reduction**
+
+[Introduction to Scikit-Learn notebook2](IntroductionToScikitLearn2.ipynb)
+
+## Introduction to Natural Language Processing with Python
+
