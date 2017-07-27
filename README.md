@@ -1,6 +1,6 @@
 # Data Science and Engineering Club
 
-The Open Source resources in Data Engineering, Machine Learning, Data Science areas, inspired by http://datasciencemasters.org/ .
+The Open Source resources in Data Engineering, Machine Learning, Data Science topics, inspired by [Data Science Masters](http://datasciencemasters.org/).
 
 
 ## Toolset
@@ -65,12 +65,19 @@ Data wrangling is about taking a messy or unrefined source of data and turning i
 
 ## Introduction to Natural Language Processing with Python
 
+.
 
 
+.
 
 
+.
 
 
+.
+
+
+.
 
 
 
