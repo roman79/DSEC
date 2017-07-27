@@ -65,3 +65,13 @@ Data wrangling is about taking a messy or unrefined source of data and turning i
 
 ## Introduction to Natural Language Processing with Python
 
+
+Reference Books and Research Papers:
+
+
+**Data Wrangling with Python** by Jacqueline Kazil, Katharine Jarmul
+ 
+**Introduction to Machine Learning with Python** by Andreas C. Mueller , Sarah Guido
+
+**The Elements of Statistical Learning** T.Hastie, R.Tibshirani, J.Friedman
+
