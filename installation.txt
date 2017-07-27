@@ -1,0 +1,13 @@
+conda install -c conda-forge xgboost 
+
+conda install -c conda-forge lightgbm
+
+
+conda install -c anaconda nltk
+
+http://www.nltk.org/data.html
+
+conda install -c conda-forge textblob
+
+conda install -c conda-forge spacy     
+conda install -c anaconda gensim 
