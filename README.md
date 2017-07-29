@@ -65,7 +65,7 @@ Data wrangling is about taking a messy or unrefined source of data and turning i
 
 ## Introduction to Natural Language Processing with Python
 
-.
+[Introduction to NLP](IntroductionToNLP.ipynb)
 
 
 .
@@ -89,4 +89,12 @@ Reference Books and Research Papers:
 **Introduction to Machine Learning with Python** by Andreas C. Mueller , Sarah Guido
 
 **The Elements of Statistical Learning** T.Hastie, R.Tibshirani, J.Friedman
+
+**Natural Language Processing with Python** – Analyzing Text with the Natural Language Toolkit
+by Steven Bird, Ewan Klein, and Edward Loper http://www.nltk.org/book/ http://www.nltk.org/book_1ed/
+
+
+
+Paper by Tomas Mikolov Google http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
+
 
