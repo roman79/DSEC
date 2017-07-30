@@ -7,7 +7,7 @@ The Open Source resources in Data Engineering, Machine Learning, Data Science to
 
 * [Installation](installation.txt)
 
-* [Git](https://git-scm.com/)
+* [Introduction to Git and GitHub](github) [Git](https://git-scm.com/)
 
 * [Anaconda Distribution](https://www.continuum.io/downloads)
 
