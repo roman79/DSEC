@@ -7,7 +7,7 @@ The Open Source resources in Data Engineering, Machine Learning, Data Science to
 
 * [Installation](installation.txt)
 
-* [Introduction to Git and GitHub](github) [Git](https://git-scm.com/)
+* [Introduction to Git and GitHub](github)
 
 * [Anaconda Distribution](https://www.continuum.io/downloads)
 
@@ -17,6 +17,9 @@ The Open Source resources in Data Engineering, Machine Learning, Data Science to
 
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.
 
+## Data Acquisition and Storage
+
+* [Introduction to Hadoop](hadoop)
 
 ## Introduction to Python (Pandas library)
 
