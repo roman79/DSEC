@@ -14,16 +14,16 @@ Git and GitHub help to create and manage projects, and more importantly, they al
 
 Links:
 
-* [Link to Git]	(https://git-scm.com/)
-* [Link to Github] (https://github.com/)
+[Link to Git]	(https://git-scm.com/)
+[Link to Github] (https://github.com/)
 
-* [Link to Pro Git book(including Git Basics)] (https://git-scm.com/book/en/v2/)
+[Link to Pro Git book(including Git Basics)] (https://git-scm.com/book/en/v2/)
 
 
 ## Download and install Git. 
 
-* [Link to Git Windows]  (http://git-scm.com/download/win) follow default settings
-*  **Linux (Debian)  - Command**     sudo apt-get install git
+[Link to Git Windows]  (http://git-scm.com/download/win) follow default settings
+  **Linux (Debian)  - Command**     sudo apt-get install git
 
 Open Git Bash (Windows)
 
@@ -80,7 +80,7 @@ The **git pull** retrives changes from remote repository
 ## Setup GitHub account 
 Sign up or sign in, if you have existing account.
  
-* [Link to GitHub] (https://github.com/)
+[Link to GitHub] (https://github.com/)
 
 
 ## Star, Fork and Clone or Download buttons
@@ -103,10 +103,10 @@ Sign up or sign in, if you have existing account.
 
 ## Markdown is a way to style text on the web.
 
-* [Link to Mastering markdown]	(https://guides.github.com/features/mastering-markdown/)
+ [Link to Mastering markdown]	(https://guides.github.com/features/mastering-markdown/)
 
 
-* [Link to Markdown-Cheatsheet]	(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+ [Link to Markdown-Cheatsheet]	(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 ## Practice exercise 2   Update your repo 
