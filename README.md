@@ -85,7 +85,10 @@ Data wrangling is about taking a messy or unrefined source of data and turning i
 
 
 
-Reference Books and Research Papers:
+.
+
+
+##Reference Books and Research Papers:
 
 
 **Data Wrangling with Python** by Jacqueline Kazil, Katharine Jarmul
