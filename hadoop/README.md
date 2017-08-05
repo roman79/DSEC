@@ -101,3 +101,13 @@ Copy files into and out of the HDFS via command-line interface. [Instruction](ex
 Perform MapReduce WordCount and copy the results from WordCount out of HDFS. [Instruction](exercises/MapReduce_Instruction_v1.txt)
 
 Scoop and Hive https://www.cloudera.com/developers/get-started-with-hadoop-tutorial/exercise-1.html
+
+## Introduction to Apache Spark
+
+Apache Spark is a fast and general engine for large-scale data processing.
+
+
+[Apache Spark](https://spark.apache.org/)
+
+
+[Databricks Apache Spark](https://databricks.com/spark/about)

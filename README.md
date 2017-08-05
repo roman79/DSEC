@@ -71,16 +71,13 @@ Data wrangling is about taking a messy or unrefined source of data and turning i
 [Introduction to NLP](IntroductionToNLP.ipynb)
 
 
-.
+## Data Science Project
 
 
 .
 
 
-.
 
-
-.
 
 
 
