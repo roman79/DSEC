@@ -74,15 +74,9 @@ Data wrangling is about taking a messy or unrefined source of data and turning i
 .
 
 
-## Data Science Project
 
 
-[Job salary prediction data](https://www.kaggle.com/c/job-salary-prediction/data)
-
-
-
-
-.
+[ Data Science Project Data](DataProject)
 
 
 
