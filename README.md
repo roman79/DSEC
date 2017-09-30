@@ -3,6 +3,11 @@
 The Open Source resources in Data Engineering, Machine Learning, Data Science topics, inspired by [Data Science Masters](http://datasciencemasters.org/).
 
 
+## [Presentations and Workshops](PresentationsWorkshops)
+
+.
+
+
 ## Toolset
 
 * [Installation](installation.txt)
