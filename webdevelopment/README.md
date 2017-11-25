@@ -8,7 +8,7 @@ A Web framework is a collection of packages or modules which allow developers to
 
 https://www.djangoproject.com/
 
-![Flask](img/flask.png)
+![Flask](img/flask.PNG)
 
 **Flask** is a micro web framework written in Python and based on the Werkzeug toolkit and Jinja2 template engine. Flask is considered more Pythonic than Django because Flask web application code is in most cases more explicit. 
 
@@ -16,7 +16,7 @@ Flask is easy to get started because there is little boilerplate code for gettin
 
 http://flask.pocoo.org/
 
-![An example of a Flask](img/flask2.png)
+![An example of a Flask](img/flask2.PNG)
 
 **Dash** is a Python framework for building analytical web applications and interfaces in Python. Built on top of Plotly.js, React, and Flask, Dash ties modern UI elements like dropdowns, sliders, and graphs to your analytical Python code.
 
@@ -41,7 +41,7 @@ A Data-Driven Web application requires
 *	Server-side
 *	Database
 
-![Web Application Architectures ](img/webapparchitecture.png)
+![Web Application Architectures ](img/webapparchitecture.PNG)
 
 Greg Heileman, Web Application Architectures - University of New Mexico – Coursera   
 
@@ -88,7 +88,7 @@ The Web Server Gateway Interface (WSGI) is a specification for simple and univer
 **Model-View-Controller (MVC)** is a design pattern used to separate your application's concerns in order to make it easier to scale:
 
 
-![Model-View-Controller](img/mvc.png)
+![Model-View-Controller](img/mvc.PNG)
 
 https://selftaughtcoders.com/model-view-controller-mvc-web-application/
 
@@ -130,7 +130,7 @@ There are four components in writing SQLAlchemy code:
 
 https://www.sqlalchemy.org/
 
-### Front End - in progress
+
 Twitter Bootstrap: A front-end toolkit for rapidly developing web applications. It is a collection of CSS and HTML conventions. It uses some of the latest browser techniques to provide you with stylish typography, forms, buttons, tables, grids, navigation and everything else you need in a super tiny resource.”
 
 
