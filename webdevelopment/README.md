@@ -8,7 +8,7 @@ A Web framework is a collection of packages or modules which allow developers to
 
 https://www.djangoproject.com/
 
-[Flask](img/flask.PNG)
+![Flask](img/flask.PNG)
 
 **Flask** is a micro web framework written in Python and based on the Werkzeug toolkit and Jinja2 template engine. Flask is considered more Pythonic than Django because Flask web application code is in most cases more explicit. 
 
@@ -16,7 +16,7 @@ Flask is easy to get started because there is little boilerplate code for gettin
 
 http://flask.pocoo.org/
 
-[An example of a Flask](img/flask2.PNG)
+![An example of a Flask](img/flask2.PNG)
 
 **Dash** is a Python framework for building analytical web applications and interfaces in Python. Built on top of Plotly.js, React, and Flask, Dash ties modern UI elements like dropdowns, sliders, and graphs to your analytical Python code.
 
