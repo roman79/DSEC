@@ -1,0 +1,51 @@
+Preparing your environment and installing required packages 
+
+Install Python v3.6         https://www.python.org/downloads/
+
+
+You will need to install Conda for your OS or use a virtual environment with pip.
+
+conda create -n py3dsec --copy python=3.6
+source activate py3dsec
+
+
+Environment Setup with conda  i.e. Windows
+
+conda install flask
+conda install -c blaze sqlite3
+conda install numpy scipy scikit-learn matplotlib seaborn pandas graphviz python-graphviz
+
+
+if you saved required packages in requirements.txt just run 
+pip install -r requirements.txt
+
+Environment Setup - for a unix environment  with virtualenv
+
+Create a project directory:
+
+mkdir dsec
+cd dsec
+python3.6 -m venv env
+source env/bin/activate     #will activate your created env
+
+env/bin/activate   	# for Windows
+
+NOTE: If you're on a Python 3 version < 3.6, use pyvenv-3.x env
+
+
+pip install Flask
+
+# to install particular version of Flask
+Install Flask v0.12:     https://pypi.python.org/pypi/Flask
+
+(env)$ pip install Flask==0.12                   
+(env)$ pip freeze > requirements.txt
+
+Deactivate and reactivate virtualenv:
+(env)$ deactivate
+source env/bin/activate
+
+###########################################
+conda install numpy scipy scikit-learn matplotlib pandas pillow graphviz python-graphviz
+conda install -c blaze sqlite3
+
