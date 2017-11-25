@@ -41,7 +41,7 @@ A Data-Driven Web application requires
 *	Server-side
 *	Database
 
-[Web Application Architectures ](img/webapparchitecture.PNG)
+![Web Application Architectures ](img/webapparchitecture.PNG)
 
 Greg Heileman, Web Application Architectures - University of New Mexico – Coursera   
 
@@ -88,7 +88,7 @@ The Web Server Gateway Interface (WSGI) is a specification for simple and univer
 **Model-View-Controller (MVC)** is a design pattern used to separate your application's concerns in order to make it easier to scale:
 
 
-[Model-View-Controller](img/mvc.PNG)
+![Model-View-Controller](img/mvc.PNG)
 
 https://selftaughtcoders.com/model-view-controller-mvc-web-application/
 
