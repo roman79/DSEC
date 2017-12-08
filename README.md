@@ -22,9 +22,15 @@ The Open Source resources in Data Engineering, Machine Learning, Data Science to
 
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.
 
-## Data Acquisition and Storage
+## Distributed Systems and Data Storage
 
 * [Introduction to Hadoop](hadoop)
+
+* [Introduction to Apache Spark](spark)
+
+* [Introduction to Apache Kafka](kafka)
+
+
 
 ## Introduction to Python (Pandas library)
 
