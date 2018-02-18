@@ -6,10 +6,9 @@
 ## Windows users can try the below conda approach.
 
 
-
 ## You can install TensorFlow in different ways:
 
-## Python and Virtualenv or Conda: In this approach, you install TensorFlow and Keras and all of the packages in a Python virtual environment or conda environment.
+# 1 Python and Virtualenv or Conda: In this approach, you install TensorFlow and Keras and all of the packages in a Python virtual environment or conda environment.
 
 
 # Conda - Ubuntu 16.04 P3.5 +
@@ -67,15 +66,19 @@ pip install -r requirements.txt
 source deactivate
 
 
-The below are out of scope of this event however will be updated in the future.
+## The below are out of scope of this event however will be updated in the future.
 
-Docker: In this approach, you use a Docker container that contains TensorFlow and Kears and all of its dependencies.
+# 2 Docker: In this approach, you use a Docker container that contains TensorFlow and Kears and all of its dependencies.
 
 
-Using Cload resources to install TensorFlow and Kears (CPU and GPU):
+# 3 Using Cload resources to install TensorFlow and Kears (CPU and GPU):
 
 
 
 Relevant links:
+
+ttps://www.tensorflow.org/install/install_linux
+https://keras.io/
+https://github.com/keras-team/keras
 
 http://sourabhbajaj.com/mac-setup/Python/virtualenv.html
