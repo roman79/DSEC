@@ -1,3 +1,4 @@
+
 # Data Science and Engineering Club
 
 The Open Source resources in Data Engineering, Machine Learning, Data Science topics, inspired by [Data Science Masters](http://datasciencemasters.org/).
@@ -67,7 +68,7 @@ Data wrangling is about taking a messy or unrefined source of data and turning i
 
 ## Machine Learning with Python
 
-**Introduction to Machine Learning with Python** by  Andreas C. Mueller , Sarah Guido 
+**Introduction to Machine Learning with Python** by  Andreas C. Mueller , Sarah Guido
 
 **Supervised Learning: Classification and Regression**
 
@@ -92,6 +93,14 @@ Data wrangling is about taking a messy or unrefined source of data and turning i
 
 * [Introduction to Web Development](webdevelopment)
 
+## Introduction to Deep Learning with Python
+
+* [Introduction to Deep Learning](deeplearning)
+
+.
+
+.
+
 .
 
 
@@ -105,16 +114,14 @@ Data wrangling is about taking a messy or unrefined source of data and turning i
 
 
 **Data Wrangling with Python** by Jacqueline Kazil, Katharine Jarmul
- 
+
 **Introduction to Machine Learning with Python** by Andreas C. Mueller , Sarah Guido
 
 **The Elements of Statistical Learning** T.Hastie, R.Tibshirani, J.Friedman
 
-**Natural Language Processing with Python** – Analyzing Text with the Natural Language Toolkit
+**Natural Language Processing with Python** ï¿½ Analyzing Text with the Natural Language Toolkit
 by Steven Bird, Ewan Klein, and Edward Loper http://www.nltk.org/book/ http://www.nltk.org/book_1ed/
 
 
 
 Paper by Tomas Mikolov Google http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
-
-

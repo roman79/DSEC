@@ -1,0 +1,10 @@
+jupyter
+scipy
+pandas
+sklearn
+matplotlib
+seaborn
+bokeh
+h5py
+spacy
+request
