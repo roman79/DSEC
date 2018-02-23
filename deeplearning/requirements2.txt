@@ -1,15 +1,22 @@
 jupyter
 pandas
+numpy
 sklearn
 matplotlib
 seaborn
 bokeh
 h5py
 request
-numpy==1.14.0
-PyYAML==3.12
-scipy==1.0.0
-six==1.11.0
-tensorflow == 1.5.0
-tensorboard == 1.6.0
-Keras==2.1.4
+PyYAML
+scipy
+six
+tensorflow
+tensorboard
+theano
+keras
+natsort
+bokeh
+holoviews
+PIL
+pycm
+bebi103
